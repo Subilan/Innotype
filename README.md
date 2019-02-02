@@ -32,6 +32,8 @@ Innotype 所使用的开源库有：
 - [Swiper](//swiper.com.cn)
 - *更多有待列出。*
 
+感谢 [Staticfile](https://staticfile.org) CDN 提供支持。
+
 ## License
 MIT。如果您不了解 MIT 是什么，您只需要知道您具有
 

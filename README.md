@@ -29,7 +29,6 @@ Innotype 所使用的开源库有：
 - [MDUI](//mdui.org)
 - [Parsedown](//parsedown.org)
 - [JS-Cookie](//github.com/js-cookie/js-cookie)
-- [Swiper](//swiper.com.cn)
 - *更多有待列出。*
 
 感谢 [Staticfile](https://staticfile.org) CDN 提供支持。

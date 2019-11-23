@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Subilan/Innotype#readme",
   "dependencies": {
+    "@mdi/font": "^4.5.95",
     "mdui": "^0.4.3"
   }
 }

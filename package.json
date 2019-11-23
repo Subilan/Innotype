@@ -1,0 +1,25 @@
+{
+  "name": "innotype",
+  "version": "0.1.0",
+  "description": "一个简单的静态博客程序。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subilan/Innotype.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Subilan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Subilan/Innotype/issues"
+  },
+  "homepage": "https://github.com/Subilan/Innotype#readme",
+  "dependencies": {
+    "mdui": "^0.4.3"
+  }
+}

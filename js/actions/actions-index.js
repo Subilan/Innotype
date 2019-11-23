@@ -1,0 +1,1 @@
+$("#menu-button").on("click", e => MainDrawer.toggle());
